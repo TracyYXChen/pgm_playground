@@ -1,0 +1,16 @@
+name: 'pgm-playground'
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - python>=3.6
+  - pymc3
+  - scikit-learn
+  - scipy
+  - seaborn
+  - snakemake
+  - theano
